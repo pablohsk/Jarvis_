@@ -1,0 +1,12 @@
+// Django==3.2.5
+// channels==3.0.3
+// spotipy==2.19.0
+// pyowm==2.10.0
+// beautifulsoup4==4.9.3
+// gtts==2.2.3
+// SpeechRecognition==3.8.1
+// playsound==1.3.0
+// pygame==2.1.0
+// google==3.0.0
+// pytube==11.0.0
+// requests==2.26.0
